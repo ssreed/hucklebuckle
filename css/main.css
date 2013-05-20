@@ -1,0 +1,27 @@
+
+.main-container {
+    position: absolute;
+    width: 100%; 
+}
+#guess-box {
+    position: relative; 
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px; 
+}
+
+#guess {
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+ 
+
+#answer {
+    position: absolute; 
+    vertical-align: middle;
+    width: 203px;
+    height: 100px;  
+    margin-left: 490px;
+}
+ 
