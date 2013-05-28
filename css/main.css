@@ -1,13 +1,14 @@
 
 .main-container {
     position: absolute;
-    width: 100%; 
+    width: 100%;
 }
+
 #guess-box {
-    position: relative; 
+    position: relative;
     margin: 0 auto;
     text-align: center;
-    padding-top: 10px; 
+    padding-top: 10px;
 }
 
 #guess {
@@ -15,13 +16,13 @@
     height: 30px;
     text-align: center;
 }
- 
+
 
 #answer {
-    position: absolute; 
+    display: none;
+    position: absolute;
     vertical-align: middle;
     width: 203px;
-    height: 100px;  
-    margin-left: 490px;
+    height: 100px;
+    margin-left: 585px;
 }
- 
